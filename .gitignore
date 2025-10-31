@@ -2,3 +2,7 @@
 *.py
 Decrypted/*
 Logo.ico
+Update
+Update.build
+Update.dist
+Update.onefile-build
