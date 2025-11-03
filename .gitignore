@@ -1,0 +1,13 @@
+*.txt
+*.py
+Decrypted/*
+Logo.ico
+Update
+Update.build
+Update.dist
+Update.onefile-build
+dist/*
+build/*
+Update.spec
+flag
+Update/*
